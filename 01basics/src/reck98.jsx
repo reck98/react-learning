@@ -1,8 +1,9 @@
-function Reck98 (){
-
+export default function Reck98() {
     return (
-        <h2>Hello from Reck98</h2>
-    )
+        <>
+            <h1>reck98 and vite Enjoying and munching</h1>
+        </>
+    );
 }
 
-export default Reck98
+
