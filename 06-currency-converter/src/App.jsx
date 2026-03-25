@@ -39,7 +39,7 @@ const App = () => {
             }}
         >
             <div className="w-full">
-                <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
+                <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white">
                     <form
                         onSubmit={(e) => {
                             e.preventDefault();
